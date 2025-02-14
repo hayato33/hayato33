@@ -1,5 +1,5 @@
 ## Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,ts,react,next,figma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=5&i=html,css,sass,tailwind,js,ts,react,next,figma,wordpress" />
 
 ## Activities
 <div align="left"> 
