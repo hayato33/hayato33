@@ -13,3 +13,4 @@ React / Next.js / jQuery / WordPress / Laravel / Django
 ### 🔧 Tools & Platforms
 
 Git / GitHub / Supabase / Vercel / Figma / Miro / Slack / Discord
+
