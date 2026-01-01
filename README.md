@@ -8,9 +8,8 @@ HTML / CSS(Sass) / JavaScript / TypeScript / Python / PHP
 
 ### 📚 Frameworks & Libraries
 
-React / Next.js / jQuery / WordPress / Laravel / Django
+React / Next.js / FastAPI / jQuery / WordPress / Laravel / Django
 
 ### 🔧 Tools & Platforms
 
 Git / GitHub / Supabase / Vercel / Figma / Miro / Slack / Discord
-
